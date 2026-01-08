@@ -3,15 +3,17 @@
 
 [![Website](https://img.shields.io/website?label=bcwtechnology.com&style=for-the-badge&url=https%3A%2F%2Fbcwtechnology.com)](https://bcwtechnology.com)
 
-## I bring over 15+ years of IT experience working as a Technical Architect. I possess experience of working in the multicultural environment and proven experience of diversified IT deliveries across the verticals like B2B, B2C, and Service domain.
+## I’m a Technical Architect, Designer, Developer, and Business Analyst with 25+ years of experience delivering scalable, user‑focused solutions across B2B, B2C, and service‑driven environments.
+
+## As Founder of BCW Technology Solutions, I help organizations modernize their systems, streamline operations, and translate complex business needs into clear, actionable technical strategies. I thrive in multicultural, cross‑functional settings and bring a balanced blend of architecture, hands‑on development, and business analysis to every engagement.
 
 
 - 🔭 I’m currently working on MSA.
 - 👯 I’m looking to collaborate on ...
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2026 Goals: Contribute more to Open Source projects
 
 - <h1 align="center">Hi 👋, I'm Barry Walton</h1>
-<h3 align="center">A passionate fullstack developer from USA</h3>
+<h3 align="center">A passionate Technology Strategist from USA</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
